@@ -1,0 +1,18 @@
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\bin\Debug\BING-API.exe.config
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\bin\Debug\BING-API.exe
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\bin\Debug\BING-API.pdb
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\obj\Debug\BING-API.csprojResolveAssemblyReference.cache
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\obj\Debug\BING-API.exe
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\obj\Debug\BING-API.pdb
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\bin\Debug\Microsoft.Xrm.Tooling.Ui.Styles.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+c:\users\joãolucasbontorinsav\documents\visual studio 2015\Projects\BING-API\BING-API\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\JoãoLucasBontorinSav\Documents\Visual Studio 2015\Projects\BING-API\BING-API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JoãoLucasBontorinSav\Documents\Visual Studio 2015\Projects\BING-API\BING-API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JoãoLucasBontorinSav\Desktop\BING-API\BING-API\bin\Debug\BING-API.exe.config
+C:\Users\JoãoLucasBontorinSav\Desktop\BING-API\BING-API\obj\Debug\BING-API.exe
+C:\Users\JoãoLucasBontorinSav\Desktop\BING-API\BING-API\obj\Debug\BING-API.pdb
